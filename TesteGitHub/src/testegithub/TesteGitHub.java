@@ -12,6 +12,7 @@ package testegithub;
 public class TesteGitHub {
 
     private int teste;
+    private int testeete;
 
     /**
      * @param args the command line arguments
